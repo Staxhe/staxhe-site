@@ -92,15 +92,11 @@ window.SITE = {
 
   /* Links: add, remove or reorder lines freely.
      The small grey line under each label is generated from the URL
-     (e.g. "youtube.com/@name"); set note: "..." to write your own.
-     Your GitHub repo lives under github.com/Staxhe, swap it in if that
-     is the profile you want to show. */
+     (e.g. "youtube.com/@name"); set note: "..." to write your own. */
   links: [
-    { label: "YouTube", url: "https://www.youtube.com/", icon: "youtube", placeholder: true },
-    { label: "GitHub", url: "https://github.com/", icon: "github", placeholder: true },
-    { label: "X", url: "https://x.com/", icon: "x", placeholder: true },
-    { label: "Instagram", url: "https://www.instagram.com/", icon: "instagram", placeholder: true },
-    { label: "Discord", url: "https://discord.com/", icon: "discord", placeholder: true },
+    { label: "YouTube", url: "https://www.youtube.com/@StaxheMinecraft", icon: "youtube" },
+    { label: "Instagram", url: "https://www.instagram.com/staxhemc", icon: "instagram" },
+    { label: "Discord", url: "https://discord.com/", icon: "discord", note: "Username: .staxhe" },
     { label: "Email", url: "mailto:staxhemc@gmail.com", icon: "email" },
   ],
 
