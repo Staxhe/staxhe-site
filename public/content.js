@@ -106,7 +106,7 @@ window.SITE = {
     { label: "YouTube", url: "https://www.youtube.com/@StaxheMinecraft", icon: "youtube" },
     { label: "Instagram", url: "https://www.instagram.com/staxhemc", icon: "instagram" },
     { label: "Discord", url: "https://discord.com/", icon: "discord", note: "Username: .staxhe" },
-    { label: "Email", url: "mailto:staxhemc@gmail.com", icon: "email" },
+    { label: "Email", url: "mailto:dev@staxhe.com", icon: "email" },
   ],
 
   options: {
