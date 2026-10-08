@@ -55,9 +55,9 @@ window.SITE = {
     {
       name: "DopaGate",
       description:
-        "A language-learning app for Android. In development and being prepared for its first release.",
+        "Turns the urge to doomscroll into language practice. Before a distracting app opens, you translate one word in the language you're learning. Six languages, built for Android.",
       status: "release-prep",
-      tags: ["Android", "Language learning"], // add your stack, e.g. "Kotlin"
+      tags: ["Android", "Language learning", "React", "Capacitor"],
       image: "", // e.g. "assets/img/dopagate.webp" (empty = neutral placeholder block)
       imageAlt: "",
       buttons: [
@@ -78,10 +78,10 @@ window.SITE = {
     {
       name: "Noting App",
       description:
-        "Turns tasks and habits into an RPG-style progress loop, so getting things done feels like making progress in a game. My next project to ship.",
+        "Turns real-life tasks and habits into an RPG. Earn XP and gold, level up your class, open chests and push through a 100-floor dungeon. My next project to ship.",
       status: "paused",
       statusLabel: "Up next",
-      tags: ["Productivity", "Habits", "RPG mechanics"],
+      tags: ["Productivity", "Habits", "React", "Firebase"],
       image: "",
       imageAlt: "",
       buttons: [
