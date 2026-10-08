@@ -30,7 +30,7 @@ window.SITE = {
 
   hero: {
     // Short line under the buttons. Set to "" to hide it.
-    status: "Now building DopaGate and a Roblox game",
+    status: "Now building DopaGate and Last Extraction",
     primaryLabel: "See projects",
     secondaryLabel: "Links",
   },
@@ -39,7 +39,7 @@ window.SITE = {
     paragraphs: [
       "Staxhe is the name I build under. I design and develop apps, learning tools and games on my own, from the first sketch to release.",
       "I'm less interested in turning my own ideas into products than in listening. The complaints people repeat and the things they wish existed are where my projects start.",
-      "Right now that means DopaGate and a Roblox game. Next up is Noting App.",
+      "Right now that means DopaGate and Last Extraction, a Roblox game. Next up is Noting App.",
     ],
   },
 
@@ -66,7 +66,7 @@ window.SITE = {
       ],
     },
     {
-      name: "Roblox game",
+      name: "Last Extraction",
       description:
         "A co-op zombie survival shooter on Roblox: hold out against waves and special infected with your team.",
       status: "development",
@@ -94,7 +94,7 @@ window.SITE = {
     updated: "October 2026", // the month you last edited this list
     items: [
       { label: "DopaGate", text: "Getting it through Google Play review for its first release." },
-      { label: "Roblox", text: "Building a co-op zombie survival game." },
+      { label: "Roblox", text: "Building Last Extraction, a co-op zombie survival game." },
       { label: "Next", text: "Shipping Noting App." },
     ],
   },
