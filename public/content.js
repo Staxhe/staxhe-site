@@ -26,21 +26,20 @@
 
 window.SITE = {
   name: "Staxhe",
-  tagline: "Independent developer building focused apps and small experiments.",
+  tagline: "Independent developer turning real frustrations into apps, learning tools and games.",
 
   hero: {
     // Short line under the buttons. Set to "" to hide it.
-    status: "Now preparing DopaGate for release",
+    status: "Now building DopaGate and a Roblox game",
     primaryLabel: "See projects",
     secondaryLabel: "Links",
   },
 
   about: {
-    placeholder: true,
     paragraphs: [
-      "Staxhe is the name I build under. I design and develop small, focused apps on my own, from the first sketch to the store listing.",
-      "I care about software that respects people's time: quick to open, clear to use and honest about what it does.",
-      "When something I learn along the way is worth sharing, it becomes a video or an experiment you can try.",
+      "Staxhe is the name I build under. I design and develop apps, learning tools and games on my own, from the first sketch to release.",
+      "I'm less interested in turning my own ideas into products than in listening. The complaints people repeat and the things they wish existed are where my projects start.",
+      "Right now that means DopaGate and a Roblox game. Next up is Noting App.",
     ],
   },
 
@@ -67,10 +66,21 @@ window.SITE = {
       ],
     },
     {
+      name: "Roblox game",
+      description:
+        "A co-op zombie survival shooter on Roblox: hold out against waves and special infected with your team.",
+      status: "development",
+      tags: ["Roblox", "Luau", "Co-op"],
+      image: "",
+      imageAlt: "",
+      buttons: [],
+    },
+    {
       name: "Noting App",
       description:
-        "Turns tasks and habits into an RPG-style progress loop, so getting things done feels like making progress in a game.",
-      status: "development", // assumed; change if needed
+        "Turns tasks and habits into an RPG-style progress loop, so getting things done feels like making progress in a game. My next project to ship.",
+      status: "paused",
+      statusLabel: "Up next",
       tags: ["Productivity", "Habits", "RPG mechanics"],
       image: "",
       imageAlt: "",
@@ -81,12 +91,11 @@ window.SITE = {
   ],
 
   now: {
-    placeholder: true,
     updated: "October 2026", // the month you last edited this list
     items: [
-      { label: "App development", text: "Getting DopaGate ready for its first release." },
-      { label: "YouTube", text: "Scripting and editing the next video." },
-      { label: "Experiments", text: "Small prototypes that may or may not turn into apps." },
+      { label: "DopaGate", text: "Getting it through Google Play review for its first release." },
+      { label: "Roblox", text: "Building a co-op zombie survival game." },
+      { label: "Next", text: "Shipping Noting App." },
     ],
   },
 
